@@ -709,6 +709,10 @@ transition: all 0.3s;
   bottom: 3rem;
 }
 
+.email {
+  bottom: 3rem;
+}
+
 .message {
   bottom: 2rem;
 }
